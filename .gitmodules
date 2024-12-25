@@ -1,0 +1,21 @@
+[submodule "other"]
+	path = other
+	url = https://github.com/billybobgames/other.git
+[submodule "other1"]
+	path = other1
+	url = https://github.com/billybobgames/other1.git
+[submodule "other2"]
+	path = other2
+	url = https://github.com/billybobgames/other2.git
+[submodule "other3"]
+	path = other3
+	url = https://github.com/billybobgames/other3.git
+[submodule "other4"]
+	path = other4
+	url = https://github.com/billybobgames/other4.git
+[submodule "flash"]
+	path = flash
+	url = https://github.com/billybobgames/flash.git
+[submodule "emulated"]
+	path = emulated
+	url = https://github.com/billybobgames/emulated.git
